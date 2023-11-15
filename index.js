@@ -27,12 +27,12 @@ switch (pazymis) {
         console.log('Pagirk save!');
         break;
     case 9:
-//         console.log('Pagirk save!');
-//         break;
-//     case 10:
-//         console.log('Super!');
-//     default:
-//         console.log('Pateikta neteisinga reiksme')
+        console.log('Pagirk save!');
+        break;
+    case 10:
+        console.log('Super!');
+    default:
+        console.log('Pateikta neteisinga reiksme')
 
 }
 
